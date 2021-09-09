@@ -15,4 +15,5 @@ dependencies {
     implementation(kotlin("reflect"))
 
     implementation("org.lwjgl.lwjgl:lwjgl:2.9.3")
+    implementation("org.lwjgl.lwjgl:lwjgl_util:2.9.3")
 }
